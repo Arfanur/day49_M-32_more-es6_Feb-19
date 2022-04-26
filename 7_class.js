@@ -17,5 +17,5 @@ const sharuk = new Support('SRK Khan', 'Dubai');
 const akshay = new Support('Akshay Kumar', 'Dubai');
 aamir.startSession();
 salman.startSession();
-console.log(aamir, salman, sharuk, akshay);
+// console.log(aamir, salman, sharuk, akshay);
 // console.log(salman);
